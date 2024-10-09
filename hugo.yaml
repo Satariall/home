@@ -1,3 +1,14 @@
-baseURL: https://example.org/
-languageCode: en-us
-title: My New Hugo Site
+baseURL: https://marsell.ws/
+languageCode: ru-ru
+title: marsell.ws - Homepage
+theme: ["PaperMod"]
+params:
+  homeInfoParams:
+    Title: Привет!
+    Content: Место мыслей, информации и полезностей
+
+  socialIcons: # optional
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/numbered"
+    - name: "telegram"
+      url: "https://t.me/upgradeovec"
