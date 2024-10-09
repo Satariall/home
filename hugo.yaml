@@ -3,6 +3,7 @@ languageCode: ru-ru
 title: marsell.ws - Homepage
 theme: ["PaperMod"]
 params:
+  defaultTheme: dark
   homeInfoParams:
     Title: Привет!
     Content: Место мыслей, информации и полезностей
