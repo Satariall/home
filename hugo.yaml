@@ -1,13 +1,15 @@
-baseURL: https://marsell.ws/
+baseURL: http://localhost/
 languageCode: ru-ru
 title: marsell.ws - Homepage
 theme: ["PaperMod"]
+pagination:
+  pagerSize: 5
 params:
   defaultTheme: dark
   homeInfoParams:
     Title: Привет!
     Content: Место мыслей, информации и полезностей
-
+  social: true
   socialIcons: # optional
     - name: "linkedin"
       url: "https://www.linkedin.com/in/numbered"
