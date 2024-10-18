@@ -15,3 +15,5 @@ params:
       url: "https://www.linkedin.com/in/numbered"
     - name: "telegram"
       url: "https://t.me/upgradeovec"
+    - name: "leetcode"
+      url: "https://leetcode.com/u/Milar/"
