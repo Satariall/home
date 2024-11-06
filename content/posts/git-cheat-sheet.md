@@ -43,10 +43,12 @@ draft = false
 
 # Теги
 
-- `git tag <tag_name>` - создать новый тег
+- `git tag tagname` - создать новый тег `tagname`
 - `git tag` - вывести список тегов
-- `git push origin <tag_name>` - отправить в удаленный origin указанный тег
+- `git push origin tagname` - отправить в удаленный `origin` указанный тег
 - `git push --tags` - отправить все теги
+- `git tag -D tagname` - удалить тег локально
+- `git push --delete origin tagname` - удалить в удаленном `origin` указанный тег
 
 # Сравнение изменений
 
